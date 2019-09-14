@@ -22,7 +22,8 @@
     border-bottom: 3px solid #cea135;
 }
 
-.form input:focus + label, .form textarea:focus + label {
+.form input:focus + label, 
+.form textarea:focus + label {
     opacity: 1;
     visibility: visible;
     transform: translateY(1rem);
